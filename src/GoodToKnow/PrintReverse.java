@@ -1,4 +1,4 @@
-package ImportantToKnow;// a simple example of how to reverse a string
+package GoodToKnow;// a simple example of how to reverse a string
 
 import java.util.Scanner;
 

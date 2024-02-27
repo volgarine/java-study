@@ -1,4 +1,4 @@
-package ImportantToKnow;
+package GoodToKnow;
 
 //Scanner is a class in the java.util package that allows you to read input from various sources
 //        such as the console, files, or strings. It provides various methods to read different

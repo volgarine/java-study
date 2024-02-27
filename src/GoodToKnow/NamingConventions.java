@@ -1,4 +1,4 @@
-package ImportantToKnow;
+package GoodToKnow;
 
 public class NamingConventions {
 

@@ -1,4 +1,4 @@
-package ImportantToKnow;
+package GoodToKnow;
 
 import java.util.Scanner;
 

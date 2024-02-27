@@ -5,7 +5,8 @@ package Variables;
  *
  */
 public class PrimitivesTypes {
-    public static void main(VarString[] args) {
+    public static void main(String[] args) {
+
         //Primitive Types
         // Data type / Size / Range of values that can be stored / Default value
 

@@ -26,7 +26,7 @@ public class Loop1While {
         System.out.println("---------------------------------");
 //---------------------------------------------------------------------------
         // Example 3: enter a number and sum by 2 until it exceeds 100
-        System.out.println("Example 3: enter a number to sum by 2 until it exceeds 100:");
+        System.out.println("Example 3: enter a number to multiply by 2 until it exceeds 100:");
         Scanner scanner = new Scanner(System.in);
         int num = 0;
 
