@@ -8,7 +8,7 @@ After completing two short and basic courses on the Udemy and AmigosCode platfor
 **My study resources:**
 - IntelliJ IDE
 - Macbook Pro M1
-- Logitech Keyboard MX Keys Mini and Mouse MX 2
+- Logitech Keyboard MX Keys Mini and Mouse MX Anywhere 2S
 
 <p align="center">
   <a href="https://www.volgarine.wordpress.com">
